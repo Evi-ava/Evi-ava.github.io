@@ -59,7 +59,7 @@ img {
 /* header */
 
 .header {
-    min-height: 100vh;
+    
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -93,7 +93,7 @@ img {
 /* money */
 
 .money {
-    min-height: 100vh;
+    
     position: relative;
 }
 
@@ -198,7 +198,6 @@ img {
 /* invest */
 
 .invest {
-    min-height: 100vh;
 }
 
 .invest__inner {
@@ -282,7 +281,7 @@ img {
 /* decision */
 
 .decision {
-    min-height: 100vh;
+
 }
 
 .decision__inner {
@@ -337,7 +336,7 @@ img {
 /* trade */
 
 .trade {
-    min-height: 100vh;
+ 
 }
 
 .trade__inner {
@@ -384,7 +383,7 @@ img {
 /* question */
 
 .question {
-    min-height: 100vh;
+
 }
 
 .question .title {
@@ -430,7 +429,7 @@ img {
 /* fund */
 
 .fund {
-    min-height: 100vh;
+   
 }
 
 .fund .title {
@@ -463,7 +462,7 @@ img {
 /* diver */
 
 .diver {
-    min-height: 100vh;
+   
 }
 
 .diver__inner {
@@ -488,7 +487,7 @@ img {
 /* map */
 
 .map {
-    min-height: 100vh;
+    
 }
 
 .map__inner {
@@ -592,7 +591,7 @@ img {
 /* tatific */
 
 .tarific {
-    min-height: 100vh;
+   
 }
 
 .tarific__inner {
@@ -736,7 +735,7 @@ img {
 /* offer */
 
 .offer {
-    min-height: 100vh;
+    
     padding-top: 40px;
 }
 
@@ -843,7 +842,7 @@ img {
 
 }
 .profit {
-    min-height: 100vh;
+    
     padding-top: 40px;
 }
 
@@ -965,7 +964,7 @@ ul {
 /* booster */
 
 .booster {
-    min-height: 100vh;
+ 
     padding-top: 40px;
     padding-bottom: 40px;
     background: url('image/image21.png') center center no-repeat;
